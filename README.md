@@ -10,8 +10,6 @@ A Python command-line tool that fetches research papers from PubMed based on a q
 - Debug and file save options
 - Typed Python with Poetry support
 
-## Setup Instructions (to be completed after Python install)
-
 ## Tools Used
 | Tool         | Purpose                             |
 | ------------ | ----------------------------------- |
@@ -24,7 +22,7 @@ A Python command-line tool that fetches research papers from PubMed based on a q
 ## LLMs Used:
 ✅ ChatGPT (OpenAI GPT-4) — for idea assistance, filtering heuristics, and code drafting.
 
-## Setup
+## Setup Instructions (to be completed after Python install)
 Installation & Setup
 
 1. Install Poetry

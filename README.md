@@ -1,5 +1,4 @@
 # Pub-Med-Paper-fetcher
-# PubMed Paper Fetcher 🧬
 
 A Python command-line tool that fetches research papers from PubMed based on a query, identifies papers with at least one author affiliated with a pharmaceutical or biotech company, and exports the result as CSV.
 

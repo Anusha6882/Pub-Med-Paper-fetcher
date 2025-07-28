@@ -21,7 +21,7 @@ A Python command-line tool that fetches research papers from PubMed based on a q
 | PubMed API   | Data source for research papers     |
 | xml.etree    | XML parsing of PubMed results       |
 
-##LLMs Used:
+## LLMs Used:
 ✅ ChatGPT (OpenAI GPT-4) — for idea assistance, filtering heuristics, and code drafting.
 
 ## Setup
@@ -33,7 +33,7 @@ poetry --version
 
 3. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/pubmed-paper-fetcher.git
+git clone https://github.com/Anusha6882/pubmed-paper-fetcher.git
 cd pubmed-paper-fetcher
 
 3. Install Dependencies
